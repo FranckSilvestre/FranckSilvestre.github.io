@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-François Parmentier | Franck Silvestre</title>
+    <link>https://FranckSilvestre.github.io/author/jean-francois-parmentier/</link>
+      <atom:link href="https://FranckSilvestre.github.io/author/jean-francois-parmentier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-François Parmentier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Franck Silvestre© 2020 </copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://FranckSilvestre.github.io/images/icon_huc2a719ac7aef2422f21d4ec61a942231_217244_512x512_fill_lanczos_center_2.png</url>
+      <title>Jean-François Parmentier</title>
+      <link>https://FranckSilvestre.github.io/author/jean-francois-parmentier/</link>
+    </image>
+    
+    <item>
+      <title>La (dé-)synchronisation des transitions dans un processus d’évaluation formative exécuté à distance : impact sur l’engagement des étudiants</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2019-synchro/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2019-synchro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;informatique au service de la démocratisation des enseignements fondés sur l&#39;évaluation formative</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2016-informatique/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2016-informatique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

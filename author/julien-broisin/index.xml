@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julien Broisin | Franck Silvestre</title>
+    <link>https://FranckSilvestre.github.io/author/julien-broisin/</link>
+      <atom:link href="https://FranckSilvestre.github.io/author/julien-broisin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julien Broisin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Franck Silvestre© 2020 </copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://FranckSilvestre.github.io/images/icon_huc2a719ac7aef2422f21d4ec61a942231_217244_512x512_fill_lanczos_center_2.png</url>
+      <title>Julien Broisin</title>
+      <link>https://FranckSilvestre.github.io/author/julien-broisin/</link>
+    </image>
+    
+    <item>
+      <title>Un nouveau processus d&#39;évaluation pour améliorer la qualité des feedbacks dans les tests en ligne.</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2017-nouveau/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2017-nouveau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Tests Based on Contributions Provided by Teachers and Students during Face to Face Lectures</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-online/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualification semi-automatique de contributions d&#39;apprenants pour l&#39;intégration de feedbacks de qualité dans les tests en ligne</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-qualification/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-qualification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflexive learning, socio-cognitive conflict and peer-assessment to improve the quality of feedbacks in online tests</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-reflexive/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-reflexive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Génération semi-automatique de tests d&#39;auto-évaluation pourvus de feedback résultant de la prise de notes collaborative</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2014-generation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2014-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsaap-Notes--An Open Micro-blogging Tool for Collaborative Notetaking during Face-to-Face Lectures</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2014-tsaap/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2014-tsaap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

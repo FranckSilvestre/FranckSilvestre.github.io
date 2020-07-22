@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Franck Silvestre</title>
+    <link>https://FranckSilvestre.github.io/publication-type/1/</link>
+      <atom:link href="https://FranckSilvestre.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Franck Silvestre© 2020 </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://FranckSilvestre.github.io/images/icon_huc2a719ac7aef2422f21d4ec61a942231_217244_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://FranckSilvestre.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Mise en oeuvre d&#39;approches pédagogiques fondées sur des pratiques de l&#39;industrie du logiciel pour l&#39;apprentissage de la programmation</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2020-approche/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2020-approche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La (dé-)synchronisation des transitions dans un processus d’évaluation formative exécuté à distance : impact sur l’engagement des étudiants</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2019-synchro/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2019-synchro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;informatique au service de la démocratisation des enseignements fondés sur l&#39;évaluation formative</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2016-informatique/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2016-informatique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Tests Based on Contributions Provided by Teachers and Students during Face to Face Lectures</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-online/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualification semi-automatique de contributions d&#39;apprenants pour l&#39;intégration de feedbacks de qualité dans les tests en ligne</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-qualification/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-qualification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Génération semi-automatique de tests d&#39;auto-évaluation pourvus de feedback résultant de la prise de notes collaborative</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2014-generation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2014-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsaap-Notes--An Open Micro-blogging Tool for Collaborative Notetaking during Face-to-Face Lectures</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-2014-tsaap/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-2014-tsaap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
