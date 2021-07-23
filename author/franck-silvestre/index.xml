@@ -5,7 +5,7 @@
     <link>https://FranckSilvestre.github.io/author/franck-silvestre/</link>
       <atom:link href="https://FranckSilvestre.github.io/author/franck-silvestre/index.xml" rel="self" type="application/rss+xml" />
     <description>Franck Silvestre</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Franck Silvestre© 2021 </copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Franck Silvestre© 2021 </copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://FranckSilvestre.github.io/images/icon_huc2a719ac7aef2422f21d4ec61a942231_217244_512x512_fill_lanczos_center_2.png</url>
       <title>Franck Silvestre</title>
@@ -14,113 +14,129 @@
     
     <item>
       <title>Data-informed Decision-making in TEFA Processes: An Empirical Study of a Process Derived from Peer-Instruction</title>
-      <link>https://FranckSilvestre.github.io/publication/andriamiseza-2021-data/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/andriamiseza-2021-data/</guid>
+      <link>https://FranckSilvestre.github.io/publication/andriamiseza-hal-03289228/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/andriamiseza-hal-03289228/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vers la conception de feedback pour enseignants dans un contexte d&#39;évaluation formative à grande échelle : une approche analytique</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2021-feedback/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2021-feedback/</guid>
+      <link>https://FranckSilvestre.github.io/publication/andriamiseza-hal-03292736/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/andriamiseza-hal-03292736/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git4School: A Dashboard for Supporting Teacher Interventions in Software Engineering Courses</title>
-      <link>https://FranckSilvestre.github.io/publication/raclet-2020-git-4-school/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/raclet-2020-git-4-school/</guid>
+      <link>https://FranckSilvestre.github.io/publication/raclet-hal-02946555/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/raclet-hal-02946555/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mise en oeuvre d&#39;approches pédagogiques fondées sur des pratiques de l&#39;industrie du logiciel pour l&#39;apprentissage de la programmation</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2020-approche/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2020-approche/</guid>
+      <link>https://FranckSilvestre.github.io/publication/raclet-hal-02960444/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/raclet-hal-02960444/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>La (dé-)synchronisation des transitions dans un processus d’évaluation formative exécuté à distance : impact sur l’engagement des étudiants</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2019-synchro/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2019-synchro/</guid>
+      <title>La (dé-)synchronisation des transitions dans un processus d&#39;évaluation formative exécuté à distance : impact sur l&#39;engagement des étudiants</title>
+      <link>https://FranckSilvestre.github.io/publication/parmentier-hal-02904155/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/parmentier-hal-02904155/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Développement dirigé par les tests et revue de code par les pairs pour l&#39;apprentissage de la programmation</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestreraclet-2018/</link>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-02903787/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestreraclet-2018/</guid>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-02903787/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Un nouveau processus d&#39;évaluation pour améliorer la qualité des feedbacks dans les tests en ligne.</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2017-nouveau/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2017-nouveau/</guid>
+      <title>Système d&#39;instruction par les pairs étendu pour un usage à distance : illustration avec Tsaap-Notes</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-03128322/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-03128322/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsaap-Notes : développer et valoriser l&#39;activité des étudiants pendant le cours pour la constitution de feedback dans les évaluations informatisées</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-03128323/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-03128323/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L&#39;informatique au service de la démocratisation des enseignements fondés sur l&#39;évaluation formative</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2016-informatique/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2016-informatique/</guid>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-01599064/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-01599064/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un nouveau processus d&#39;évaluation pour améliorer la qualité des feedbacks dans les tests en ligne</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-01809361/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-01809361/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conception et mise en oeuvre d&#39;un système d&#39;évaluation formative pour les cours en face à face dans l&#39;enseignement supérieur</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-conception/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-conception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Tests Based on Contributions Provided by Teachers and Students during Face to Face Lectures</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-online/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-online/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qualification semi-automatique de contributions d&#39;apprenants pour l&#39;intégration de feedbacks de qualité dans les tests en ligne</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-qualification/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-qualification/</guid>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-tel-03296987/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-tel-03296987/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflexive learning, socio-cognitive conflict and peer-assessment to improve the quality of feedbacks in online tests</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2015-reflexive/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2015-reflexive/</guid>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-01363369/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-01363369/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online tests based on contributions provided by teachers and students during face-to-face lectures</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-01377329/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-01377329/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualification semi-automatique de contributions d&#39;apprenants pour l&#39;intégration de feedbacks de qualité dans les tests en ligne</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-01405950/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-01405950/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Génération semi-automatique de tests d&#39;auto-évaluation pourvus de feedback résultant de la prise de notes collaborative</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2014-generation/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2014-generation/</guid>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-01390835/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-01390835/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tsaap-Notes--An Open Micro-blogging Tool for Collaborative Notetaking during Face-to-Face Lectures</title>
-      <link>https://FranckSilvestre.github.io/publication/silvestre-2014-tsaap/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://FranckSilvestre.github.io/publication/silvestre-2014-tsaap/</guid>
+      <title>Tsaap-Notes -- An Open Micro-Blogging Tool for Collaborative Notetaking during Face-to-Face Lectures</title>
+      <link>https://FranckSilvestre.github.io/publication/silvestre-hal-01147226/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://FranckSilvestre.github.io/publication/silvestre-hal-01147226/</guid>
       <description></description>
     </item>
     
