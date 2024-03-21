@@ -6,9 +6,17 @@ categories: HDR
 excerpt_separator: <!--more-->
 ---
 
-C'est un immense plaisir de pouvoir communiquer la date de la soutenance pour l'obtention de mon Habilitation à Diriger les Recherches :
+C'est un immense plaisir de pouvoir communiquer les informations relatives à la soutenance pour l'obtention de mon Habilitation à Diriger les Recherches.
 
-**le 5 avril 2024 à 8H30 à l'Université Toulouse Capitole en salle salle ME001 à la Manufacture des Tabacs**.
+**Titre** 
+
+_Évaluation formative et génération de feedbacks soutenues par la technologie_ 
+
+**Date et Lieu** 
+
+Le 5 avril 2024 à 8H30 à l'Université Toulouse Capitole en salle salle ME001 à la Manufacture des Tabacs.
+
+**Accès à distance** 
 
 Un lien pour suivre la soutenance à distance sera bientôt mis à disposition sur cette même page.
 
@@ -37,7 +45,7 @@ Research on out-of-class situations began as part of my PhD thesis. This work le
 
 The intersection of my research with psychology, neuroscience and educational science has led me to reconsider the work carried out over the last 10 years. This review has guided the formulation of a new prototypical situation for TEL research. This is based on the study of technological systems supporting (respectively limiting) cognitive and emotional states favorable (respectively unfavorable) to human learning. It is within this framework that the main lines of the research project presented in this document are formulated. The mentioned issues concern the adaptation of formative evaluation processes and the generation, by human or artificial agents, of personalized textual feedback. 
 
-**Keywords** Formative assessment, feedback, interactive systems, learning analytics, design-based research, mixed methods, system 1 and system 2, peer evaluations, generative artificial intelligences.
+**Keywords** Formative assessment, feedback, interactive systems, learning analytics, design-based research, mixed methods, system 1 and system 2, peer evaluations, generative artificial intelligence.
 
 # Membres du jury
 
