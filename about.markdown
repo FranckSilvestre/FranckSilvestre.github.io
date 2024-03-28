@@ -6,9 +6,9 @@ permalink: /about/
 
 # Organizations/Affiliations
 
-- IRIT laboratory - https://www.irit.fr/
-- TALENT team - https://www.irit.fr/en/departement/dep-interaction-collective-intelligence/talent-team/
-- Université Toulouse 1 Capitole - https://www.ut-capitole.fr/
+- [IRIT laboratory](https://www.irit.fr/)
+- [TALENT team](https://www.irit.fr/TALENT/site/)
+- [Université Toulouse 1 Capitole](https://www.ut-capitole.fr/)
 
 
 # Short bio 

@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Franck Silvestre Research Home Page
-email: franck.silvestre@gmail.com
+# email: franck.silvestre@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My research interests include Technology Enhanced Learning, computer science education, formative assessment systems and learning theories.
 baseurl: "" # the subpath of your site, e.g. /blog

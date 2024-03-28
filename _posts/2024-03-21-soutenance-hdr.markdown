@@ -14,11 +14,12 @@ _Évaluation formative et génération de feedbacks soutenues par la technologie
 
 **Date et Lieu** 
 
-Le 5 avril 2024 à 8H30 à l'Université Toulouse Capitole en salle salle ME001 à la Manufacture des Tabacs.
+Le 5 avril 2024 à 8H30 à l'Université Toulouse Capitole en salle **MI 107** à la Manufacture des Tabacs.
 
 **Accès à distance** 
 
-Un lien pour suivre la soutenance à distance sera bientôt mis à disposition sur cette même page.
+Il sera possible de suivre la soutenance à distance via le lien suivant :
+[https://youtube.com/live/Pu8qyRZC7x4?feature=share](https://youtube.com/live/Pu8qyRZC7x4?feature=share) 
 
 <!--more-->
 
